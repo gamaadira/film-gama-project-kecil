@@ -1,0 +1,40 @@
+.myBG {
+    height: 100vh;
+    background-image: url("../assests/images/bg/poster.jpg");
+    background-size: cover;
+    backdrop-filter: blur(10px);
+}
+
+.intro {
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background-color: black;
+}
+.horror {
+    height: auto;
+    background-color: black;
+}
+.movieWrapper{   
+}
+
+.movieImage {
+    height: auto;
+    margin: 2px;
+    padding: 2px;
+}
+.images {
+    height: 500px;
+}
